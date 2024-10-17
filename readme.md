@@ -4,7 +4,8 @@
 
 
 # New modifications has been done
-#ok
+
+New changes related to build periodically
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
